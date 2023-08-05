@@ -1,1 +1,1 @@
-# CNN-Transformer-Collaborative-Learning
+**Project page:** https://vlislab22.github.io/CTCL/
